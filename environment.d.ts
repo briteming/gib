@@ -2,7 +2,7 @@
 namespace NodeJS {
   interface ProcessEnv {
     GITHUB_CLIENT_ID: Ov23liq0VjxWPMAVb8Ig;
-    GITHUB_CLIENT_SECRET: d9ca3c22bf57be1920a5cf47c4baa7c960981d36;
+    GITHUB_CLIENT_SECRET: a-string;
     AUTHOR_NAME: brite;
     BLOG_TITLE: brite's blog;
     BLOG_DESCRIPTION: it's brite's blog;
